@@ -1,6 +1,7 @@
 # Transportation Networks 
 
 Transportation Networks is a networks repository for transportation research.  
+
 If you are developing algorithms in this field, you probably asked yourself 
 more than once: where can I get good data?  The purpose of this site is to 
 provide an answer for this question! This site currently contains several examples 
@@ -45,7 +46,7 @@ Any documented text-based format is acceptable.  Please include a README.MD that
 conventions, fields names, etc.  It is best to use formats that can be easily read in with technologies 
 like R, Python, etc.  Many of the datasets on TransportationNetworks are in TNTP format.  
 
-# TNTP Data format 
+## TNTP Data format 
 TNTP is tab delimited text files, with each row terminated by a semicolon.  The files have the following format:
  - First lines are metadata; each item has a description.  An important one is the `<FIRST THRU NODE>`. 
    In the some networks (like Sioux-Falls) it is equal to 1, indicating 
