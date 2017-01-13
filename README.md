@@ -1,6 +1,6 @@
 # Transportation Networks 
 
-Transportation Networks is a networks repository for transportation research.  
+Transportation Networks is a networks repository for transportation research.
 
 If you are developing algorithms in this field, you probably asked yourself 
 more than once: where can I get good data?  The purpose of this site is to 
@@ -94,12 +94,12 @@ responsible for the content or the correctness of the datasets.
    data formats and runs a FW assignment.  The header file "stdafx.h" is for Microsoft Visual C (MSVC) compiler. On 
    Unix and other compilers it can be simply omitted.
  - [Origin-Based Assignment (OBA) algorithm](http://www.openchannelsoftware.org/projects/Origin-Based_Assignment/)
- - [NeXTA](https://code.google.com/archive/p/nexta/) Open-source GUI for visualizing static/dynamic traffic assignment results
+ - [NeXTA](https://code.google.com/archive/p/nexta/) open-source GUI for visualizing static/dynamic traffic assignment results
  - [seSue](http://people.sutd.edu.sg/~ugur_arikan/seSue/) is an open source tool to aid research on static path-based 
    Stochastic User Equilibrium (SUE) models. It is designed to carry out experiments to analyze the effects of 
    (1) different path-based SUE models associated with different underlying discrete choice models 
    (as well as hybrid models), and (2) different route choice set generation algorithms on the route choice 
    probabilities and equilibrium link flows. For additional information, contact [Ugur Arikan] (ugur_arikan@sutd.edu.sg)
  - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) is an open-source, [Julia](http://www.julialang.org) package that implements some traffic assignment algorithms. It also loads the transportation network test problem data in vector/matrix forms. The packages is maintained by [Changhyun Kwon](http://www.chkwon.net).
- - [AMS Data Hub](https://docs.google.com/document/d/1d1Zhnhm-QnCdOpqoe4-EO0U8I4ej17JprGbSgo0zNxU/edit)
+ - [AMS Data Hub](https://docs.google.com/document/d/1d1Zhnhm-QnCdOpqoe4-EO0U8I4ej17JprGbSgo0zNxU/edit) is an FHWA research project to develop a prototype data hub and data schema for transportation simulation models
  
