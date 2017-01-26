@@ -17,20 +17,20 @@ It consists of a multi-modal electrified transportation system topology, an elec
  
 
 ## Dimensions
-Nodes: 169
-Links: 624
-Trips: 163004
-Vehicles: 6084
+Nodes: 169  
+Links: 624  
+Trips: 163004  
+Vehicles: 6084  
 
 ## Units
-Time: minutes
-Distance: kilometer
-Speed: km/s
-Cost: 
+Time: minutes  
+Distance: kilometer  
+Speed: km/s  
+Cost:  
 
 ## Generalized Cost Weights
-Toll: 
-Distance: 
+Toll:  
+Distance:  
 
 ## Solutions
 Available on request, in DOI: https://doi.org/10.1109/TCST.2016.2579602
