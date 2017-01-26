@@ -31,7 +31,7 @@ Toll:
 Distance: 
 
 ## Solutions
-Available on request, in DOI: 10.1109/TCST.2016.2579602
+Available on request, in DOI: https://doi.org/10.1109/TCST.2016.2579602
 
 ## Known Issues
 -
