@@ -1,0 +1,2 @@
+time,type,mechPower,eGensMag,pDemand,qDemand,eLoadsMag,eLoadsAng
+sec,string,array,array,array,array,array,array
