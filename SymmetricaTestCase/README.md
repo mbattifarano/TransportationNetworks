@@ -3,7 +3,7 @@
 ## Source
 The Symmetrica Transportation Electrification Test Case has been provided by Amro M. Farid. 
 
-Via: http://amfarid.scripts.mit.edu/Datasets/TES-Data/index.php
+Via: http://amfarid.scripts.mit.edu/Datasets/TES-Data/index.php  
 Full description of data in: doi.org/10.1186/s40551-015-0012-9
 
 ## Contents
@@ -41,7 +41,7 @@ Toll:
 Distance:  
 
 ## Solutions
-Available on request, in DOI: https://doi.org/10.1109/TCST.2016.2579602
+Available on request, or in https://doi.org/10.1109/TCST.2016.2579602
 
 ## Known Issues
 -
