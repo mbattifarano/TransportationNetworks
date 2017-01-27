@@ -3,7 +3,7 @@
 ## Source
 The Symmetrica Transportation Electrification Test Case has been provided by Amro M. Farid. 
 
-Via: http://engineering.dartmouth.edu/liines/index.html  
+Via: http://amfarid.scripts.mit.edu/Datasets/TES-Data/index.php
 Full description of data in: doi.org/10.1186/s40551-015-0012-9
 
 ## Contents
