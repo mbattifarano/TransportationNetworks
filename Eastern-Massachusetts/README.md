@@ -14,7 +14,7 @@ An inverse VI problem, as the inverse problem to the typical traffic assignment 
 
 ## Related publications
 
-Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalidis, "***The Price of Anarchy in Transportation Networks by Estimating User Cost Functions from Actual Traffic Data***," Proceedings of the 55th IEEE Conference on Decision and Control, pp. 789-794, December 12-14, 2016, Las Vegas, NV, USA, Invited Session Paper. [arXiv:1606.02194](https://arxiv.org/abs/1606.02194)
+Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalidis, "***The Price of Anarchy in Transportation Networks by Estimating User Cost Functions from Actual Traffic Data***," Proceedings of the 55th IEEE Conference on Decision and Control, pp. 789-794, December 12-14, 2016, Las Vegas, NV, USA, Invited Session Paper.
 
 Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalidis, "***Data-driven Estimation of Origin-Destination Demand and User Cost Functions for the Optimization of Transportation Networks***," The 20th World Congress of the International Federation of Automatic Control, July 9-14, 2017, Toulouse, France, accepted as Invited Session Paper. [arXiv:1610.09580](https://arxiv.org/abs/1610.09580#)
 
