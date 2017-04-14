@@ -20,7 +20,7 @@ Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalid
 
 Jing Zhang and Ioannis Ch. Paschalidis, "***Data-Driven Estimation of Travel Latency Cost Functions via Inverse Optimization in Multi-Class Transportation Networks***," Proceedings of the 56th IEEE Conference on Decision and Control, December 12-15, 2017, Melbourne, Australia, submitted. [arXiv:1703.04010](https://arxiv.org/abs/1703.04010)
 
-Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalidis, "***The Price of Anarchy in Transportation Networks: Data-Driven Evaluation and Reduction Strategies***,” Proceedings of the IEEE: special issue on "Smart Cities," in preparation.
+Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalidis, "***The Price of Anarchy in Transportation Networks: Data-Driven Evaluation and Reduction Strategies***," Proceedings of the IEEE: special issue on "Smart Cities," in preparation.
 
 
 ## Scenario
