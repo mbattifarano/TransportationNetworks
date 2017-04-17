@@ -100,7 +100,7 @@ responsible for the content or the correctness of the datasets.
    Stochastic User Equilibrium (SUE) models. It is designed to carry out experiments to analyze the effects of 
    (1) different path-based SUE models associated with different underlying discrete choice models 
    (as well as hybrid models), and (2) different route choice set generation algorithms on the route choice 
-   probabilities and equilibrium link flows. For additional information, contact [Ugur Arikan] (ugur_arikan@sutd.edu.sg)
+   probabilities and equilibrium link flows. For additional information, contact [Ugur Arikan](ugur_arikan@sutd.edu.sg)
  - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) is an open-source, [Julia](http://www.julialang.org) package that implements some traffic assignment algorithms. It also loads the transportation network test problem data in vector/matrix forms. The packages is maintained by [Changhyun Kwon](http://www.chkwon.net).
  - [AMS Data Hub](https://docs.google.com/document/d/1d1Zhnhm-QnCdOpqoe4-EO0U8I4ej17JprGbSgo0zNxU/edit) is an FHWA research project to develop a prototype data hub and data schema for transportation simulation models
  
