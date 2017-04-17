@@ -7,12 +7,12 @@ Note: This is a highway subnetwork extracted from the entire EMA network.
 
 Via: [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic)
 
-## Cost function
+## Cost Function
 
 An inverse VI problem, as the inverse problem to the typical traffic assignment problem, was formulated in the following publications. The travel latency cost function was assumed unknown. Based on actual traffic data, the equilibrium flows were inferred and OD demand estimated. Finally, the cost function was estimated as a polynomial function with degree 8 (see EMA_intro.pdf). The data were derived for the PM period of Apr. 2012.
 
 
-## Related publications
+## Related Publications
 
 Jing Zhang, Sepideh Pourazarm, Christos G. Cassandras, and Ioannis Ch. Paschalidis, "***The Price of Anarchy in Transportation Networks by Estimating User Cost Functions from Actual Traffic Data***," Proceedings of the 55th IEEE Conference on Decision and Control, pp. 789-794, December 12-14, 2016, Las Vegas, NV, USA, Invited Session Paper.
 
