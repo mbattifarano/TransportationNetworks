@@ -78,6 +78,35 @@ Origin origin#
 destination# , OD flow ; …..
 ```
 
+
+# Summary of Networks
+
+| Network                                            | Zones | Links  | Nodes  |
+| ---                                                | ---   | ---    | ---    |
+| Anaheim                                            |    38 |    914 |    416 |
+| Austin                                             |  7388 |  18961 |   7388 |
+| Barcelona                                          |   110 |   2522 |   1020 |
+| Berlin-Center                                      |   865 |  28376 |  12981 |
+| Berlin-Friedrichshain                              |    23 |    523 |    224 |
+| Berlin-Mitte-Center                                |    36 |    871 |    398 |
+| Berlin-Mitte-Prenzlauerberg-Friedrichshain-Center  |    98 |   2184 |    975 |
+| Berlin-Prenzlauerberg-Center                       |    38 |    749 |    352 |
+| Berlin-Tiergarten                                  |    26 |    766 |    361 |
+| Birmingham-England                                 |   898 |  33937 |  14639 |
+| Braess-Example                                     |     2 |      5 |      4 |
+| Chicago-Sketch                                     |   387 |   2950 |    933 |
+| Eastern-Massachusetts                              |    74 |    258 |     74 |
+| GoldCoast                                          |  1068 |  11140 |   4807 |
+| Hessen-Asymmetric                                  |   245 |   6674 |   4660 |
+| Philadelphia                                       |  1525 |  40003 |  13389 |
+| SiouxFalls                                         |    24 |     76 |     24 |
+| Sydney                                             |  3264 |  75379 |  33113 |
+| Terrassa-Asymmetric                                |    55 |   3264 |   1609 |
+| Winnipeg                                           |   147 |   2836 |   1052 |
+| Winnipeg-Asymmetric                                |   154 |   2535 |   1057 |
+| chicago-regional                                   |  1790 |  39018 |  12982 |
+
+
 # License 
 
 All data is currented donated.  Data sets are for academic research purposes only.  Users are
