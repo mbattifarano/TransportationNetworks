@@ -9,7 +9,7 @@ Via: [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic)
 
 ## Cost Function
 
-An inverse VI problem, as the inverse problem to the typical traffic assignment problem, was formulated in the following publications. The travel latency cost function was assumed unknown. Based on actual traffic data, the equilibrium flows were inferred and OD demand estimated. Finally, the cost function was estimated as a polynomial function with degree 8 (see EMA_intro.pdf). The data were derived for the PM period of Apr. 2012.
+An inverse VI problem, as the inverse problem to the typical traffic assignment problem, was formulated in the following publications. The travel latency cost function was assumed unknown. Based on actual traffic data, the equilibrium flows were inferred and OD demand estimated. Finally, the cost function was estimated as a polynomial function with degree 8 (see EMA_intro.pdf). The data were derived for the PM period of Apr. 2012. For testing purposes, one can also use the typical BPR cost function f(x) = 1 + 0.15x^4.
 
 
 ## Related Publications
