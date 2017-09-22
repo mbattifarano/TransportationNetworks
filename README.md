@@ -38,7 +38,27 @@ Make sure to create a README in [Markdown](https://guides.github.com/features/ma
 addition as well.  Take a look at some of the existing README files in the existing network folders to see what 
 is expected.  
 
-If you are interested in contributing in a more significant role, please get in touch with the team.  Thanks!
+# License 
+
+All data is currented donated.  Data sets are for academic research purposes only.  Users are
+users are fully responsible for any results or conclusions obtained by using these data sets.
+Users must indicate the source of any dataset they are using in any publication that relies 
+on any of the datasets provided in this web site.  The Transportation Networks for Research team is not 
+responsible for the content of the data sets. Agencies, organizations, institutions and 
+individuals acknowledged in this web site for their contribution to the datasets are not 
+responsible for the content or the correctness of the datasets.
+
+# How to Cite
+
+Transportation Networks for Research Core Team. *Transportation Networks for Research*. https://github.com/bstabler/TransportationNetworks.  Accessed Month, Day, Year.
+
+# Core Team
+This repository is maintained by the Transportation Networks for Research Core Team.  The current members are:
+  - [Ben Stabler](https://github.com/bstabler)
+  - [Hillel Bar-Gera](https://github.com/bargera)
+  - [Elizabeth Sall](https://github.com/e-lo)
+
+This effort is also associated with the [TRB Network Modeling Committee](http://trb-networkmodeling.org/).  If you are interested in contributing in a more significant role, please get in touch.  Thanks!
 
 # Formats
 
@@ -104,20 +124,9 @@ destination# , OD flow ; …..
 | Winnipeg-Asymmetric                                |   154 |   2535 |   1057 |
 | chicago-regional                                   |  1790 |  39018 |  12982 |
 
-
-# License 
-
-All data is currented donated.  Data sets are for academic research purposes only.  Users are
-users are fully responsible for any results or conclusions obtained by using these data sets.
-Users must indicate the source of any dataset they are using in any publication that relies 
-on any of the datasets provided in this web site.  The TransportationNetworks team is not 
-responsible for the content of the data sets. Agencies, organizations, institutions and 
-individuals acknowledged in this web site for their contribution to the datasets are not 
-responsible for the content or the correctness of the datasets.
-
 # Other Related Projects 
- - [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic) is an open-source repository that implements some inverse Variational Inequality (VI) formulations proposed for both single-class and multi-class transportation networks. The package also implements algorithms to evaluate the Price of Anarchy in real road networks. Currently, the package is maintained by [Jing Zhang](http://people.bu.edu/jzh).
  - [TRB Network Modeling Committee](http://trb-networkmodeling.org/)
+ - [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic) is an open-source repository that implements some inverse Variational Inequality (VI) formulations proposed for both single-class and multi-class transportation networks. The package also implements algorithms to evaluate the Price of Anarchy in real road networks. Currently, the package is maintained by [Jing Zhang](http://people.bu.edu/jzh).
  - [Frank-Wolfe algorithm](http://www.bgu.ac.il/~bargera/tntp/FW.zip) that demonstrates how to read these 
    data formats and runs a FW assignment.  The header file "stdafx.h" is for Microsoft Visual C (MSVC) compiler. On 
    Unix and other compilers it can be simply omitted.
