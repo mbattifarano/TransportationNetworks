@@ -138,6 +138,7 @@ destination# , OD flow ; …..
    (as well as hybrid models), and (2) different route choice set generation algorithms on the route choice 
    probabilities and equilibrium link flows. For additional information, contact [Ugur Arikan](ugur_arikan@sutd.edu.sg)
     - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) is an open-source, [Julia](http://www.julialang.org) package that implements some traffic assignment algorithms. It also loads the transportation network test problem data in vector/matrix forms. The packages is maintained by [Changhyun Kwon](http://www.chkwon.net).
+    - [DTALite-S](https://github.com/xzhou99/DTALite-S) - Simplified Version of DTALite for Education and Research
     - [NeXTA](https://code.google.com/archive/p/nexta/) open-source GUI for visualizing static/dynamic traffic assignment results
   - Transit Assignment
     - [Fast-Trips](http://fast-trips.mtc.ca.gov/) - open source dynamic transit assignment software, data standards, and research project
