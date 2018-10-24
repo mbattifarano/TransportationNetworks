@@ -140,7 +140,8 @@ destination# , OD flow ; …..
     - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) is an open-source, [Julia](http://www.julialang.org) package that implements some traffic assignment algorithms. It also loads the transportation network test problem data in vector/matrix forms. The packages is maintained by [Changhyun Kwon](http://www.chkwon.net).
     - [DTALite-S](https://github.com/xzhou99/DTALite-S) - Simplified Version of DTALite for Education and Research
     - [NeXTA](https://code.google.com/archive/p/nexta/) open-source GUI for visualizing static/dynamic traffic assignment results
-  - Transit Assignment
+  - Transit
+    - [Transit Network Design Instances](https://github.com/RenatoArbex/TransitNetworkDesign) - transit network design instances for research repository
     - [Fast-Trips](http://fast-trips.mtc.ca.gov/) - open source dynamic transit assignment software, data standards, and research project
   - Data Schemas
     - [AMS Data Hub](https://docs.google.com/document/d/1d1Zhnhm-QnCdOpqoe4-EO0U8I4ej17JprGbSgo0zNxU/edit) is an FHWA research project to develop a prototype data hub and data schema for transportation simulation models
