@@ -116,9 +116,11 @@ destination# , OD flow ; …..
 | Braess-Example                                     |     2 |      5 |      4 |
 | Chicago-Sketch                                     |   387 |   2950 |    933 |
 | Eastern-Massachusetts                              |    74 |    258 |     74 |
+| GoldCoast, Australia                               |  1068 |  11140 |   4807 |
 | Hessen-Asymmetric                                  |   245 |   6674 |   4660 |
 | Philadelphia                                       |  1525 |  40003 |  13389 |
 | SiouxFalls                                         |    24 |     76 |     24 |
+| Sydney, Australia                                  |  3264 |  75379 |  33837 |
 | Terrassa-Asymmetric                                |    55 |   3264 |   1609 |
 | Winnipeg                                           |   147 |   2836 |   1052 |
 | Winnipeg-Asymmetric                                |   154 |   2535 |   1057 |
